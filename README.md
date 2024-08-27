@@ -1,5 +1,7 @@
 # Juego por Turnos: Héroes vs. Bestias del Señor de los Anillos
 
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+
 Bienvenido al proyecto de fin de máster, un juego por turnos que enfrenta a Héroes contra Bestias en el mundo del Señor de los Anillos. Este juego está desarrollado en Java utilizando la biblioteca Swing para la interfaz gráfica.
 
 ## Descripción del Proyecto
