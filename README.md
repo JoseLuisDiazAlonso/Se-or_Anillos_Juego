@@ -10,7 +10,7 @@ Bienvenido al proyecto de fin de máster, un juego por turnos que enfrenta a Hé
 
 Este juego por turnos permite a los jugadores elegir entre Héroes y Bestias del universo del Señor de los Anillos y hacer que luchen entre ellos.
 
-### Características
+## Características
 
 - **Interfaz Gráfica**: Desarrollada con Java Swing para una experiencia de usuario intuitiva y visualmente atractiva.
 - **Unidades**: Incluye héroes y bestias con habilidades y características únicas.
