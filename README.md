@@ -57,6 +57,32 @@ Para ejecutar el juego en tu entorno local, sigue estos pasos:
   - Pulsa el botón Añadir para que la información suba a tu personaje (repite todo el proceso para cada Heroe que desees seleccionar).
   - Pulsa el botón Jugar y se sucederá la batalla hasta que solo quede uno de los dos ejércitos en pie.
 
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Por favor, sigue las siguientes pautas para contribuir:
+
+1. **Haz un Fork del repositorio**:
+   Haz una copia del repositorio en tu cuenta de GitHub para trabajar en él de manera independiente.
+
+2. **Crea una nueva rama**:
+   Cambia a una nueva rama para realizar tus cambios. Puedes hacerlo con el siguiente comando:
+
+   ```bash
+   git checkout -b nombre-rama
+
+3. **Realiza tus cambios y haz commit**:
+
+   Realiza las modificaciones necesarias en tu copia del proyecto y luego guarda los cambios con un commit.
+
+   git commit -m 'Añadir nueva característica'
+
+4. **Haz Push a la rama**:
+
+   git push origin nombre-rama
+
+
+
+
 
 
 
