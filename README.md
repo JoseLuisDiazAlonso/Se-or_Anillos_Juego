@@ -21,7 +21,7 @@ Este juego por turnos permite a los jugadores elegir entre Héroes y Bestias del
 - **Swing**: Biblioteca de Java para la interfaz gráfica de usuario.
 
 
-## Instalación
+## 📦 Instalación
 
 Para ejecutar el juego en tu entorno local, sigue estos pasos:
 
