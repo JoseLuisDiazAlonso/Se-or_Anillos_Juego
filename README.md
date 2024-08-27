@@ -1,1 +1,1 @@
-# Se-or_Anillos_Juego
+# Señor_Anillos_Juego
