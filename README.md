@@ -15,6 +15,13 @@ Este juego por turnos permite a los jugadores elegir entre Héroes y Bestias del
 - **Interfaz Gráfica**: Desarrollada con Java Swing para una experiencia de usuario intuitiva y visualmente atractiva.
 - **Unidades**: Incluye héroes y bestias con habilidades y características únicas.
 
+  ## Tecnologías Utilizadas
+
+- [![Java Swing](https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](https://en.wikipedia.org/wiki/Java_Swing)
+- **Java**: Lenguaje de programación utilizado para desarrollar el juego.
+- **Swing**: Biblioteca de Java para la interfaz gráfica de usuario.
+
+
 ## Instalación
 
 Para ejecutar el juego en tu entorno local, sigue estos pasos:
