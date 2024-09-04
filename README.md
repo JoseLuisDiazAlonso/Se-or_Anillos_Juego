@@ -6,6 +6,8 @@
 
 Bienvenido al proyecto de fin de máster, un juego por turnos que enfrenta a Héroes contra Bestias en el mundo del Señor de los Anillos. Este juego está desarrollado en Java utilizando la biblioteca Swing para la interfaz gráfica.
 
+**Todo el código lo puedes encontrar en la rama master**
+
 ## Descripción del Proyecto
 
 Este juego por turnos permite a los jugadores elegir entre Héroes y Bestias del universo del Señor de los Anillos y hacer que luchen entre ellos.
